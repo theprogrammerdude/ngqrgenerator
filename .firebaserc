@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngqrgenerator": {
+      "hosting": {
+        "ngqrgenerator": [
+          "ngqrgenerator"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngqrgenerator"
+  }
+}
